@@ -1,2 +1,5 @@
 target/
 **/*.rs.bk
+
+# Swap files
+*.swp
