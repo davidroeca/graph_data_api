@@ -1,0 +1,6 @@
+[package]
+name = "graph_data_api"
+version = "0.1.0"
+authors = ["davidroeca <david.roeca@gmail.com>"]
+
+[dependencies]
